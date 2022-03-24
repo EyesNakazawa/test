@@ -1,0 +1,3 @@
+[submodule "SubModules/SubTest"]
+	path = SubModules/SubTest
+	url = https://github.com/EyesNakazawa/SubTest.git
